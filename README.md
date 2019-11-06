@@ -1,6 +1,6 @@
 # Catalogo de Dados Abertos
 
-### Meus Repositorios
+## Meus Repositorios
 
 - [Raio-X do estado de São Paulo](https://github.com/d116626/raiox_sp)
 - [Raio-X da ALESP](https://github.com/d116626/raioX_alesp)
@@ -12,7 +12,9 @@
 - [Orçamento Universidades Paulistas](https://github.com/d116626/universidades_paulistas)
 - [Gabinete SV](https://github.com/d116626/gabinete_sv)
 
+----
 
+## DADOS
 
 ### Geral
 - [ODS](https://odsbrasil.gov.br/objetivo/objetivo?n=3)
@@ -22,7 +24,7 @@
 - [Portal da Transparencia](http://www.portaltransparencia.gov.br/servidores)
 
 ----
-### Dados Demograficos
+### Demograficos
 - [SEADE](http://www.seade.gov.br/lista-produtos/)
 - [IBGE](https://seriesestatisticas.ibge.gov.br/lista_tema.aspx?op=0&no=10#)
 - [IBGE Panorama](https://cidades.ibge.gov.br/brasil/sp/panorama)
@@ -55,7 +57,7 @@
 
 
 ----
-### Dados Economicos
+### Economicos
 - [Tesouro Transparente](http://www.tesourotransparente.gov.br/)
 - [Fazenda SP](https://portal.fazenda.sp.gov.br/acessoinformacao)
 - [PIB Mensal SP](http://www.seade.gov.br/produtos/pib-mensal/)
@@ -64,13 +66,19 @@
 
 
 ----
-###### Municipal
+### Municipal
+- [Transparência Municipal TCE SP](https://transparencia.tce.sp.gov.br/)
+- [TCESP - API](https://transparencia.tce.sp.gov.br/apis)
 - EMPREGOS - [CAGED](http://pdet.mte.gov.br/)
 - Frota de Veiculos - [DENATRAN](https://infraestrutura.gov.br/component/content/article/115-portal-denatran/8552-estat%C3%ADsticas-frota-de-ve%C3%ADculos-denatran.html)
 - Importaçoes/Exportações - [MDIC](http://www.mdic.gov.br/index.php/comercio-exterior/estatisticas-de-comercio-exterior/base-de-dados-do-comercio-exterior-brasileiro-arquivos-para-download)     
 - ICMS/IPVA - [Fazenda-SP](https://www.fazenda.sp.gov.br/RepasseConsulta/Consulta/repasse.aspx) 
 - Dados Bancarios -  [ESTBAN](https://www.bcb.gov.br/estatisticas/estatisticabancariamunicipios)    
 - Transferências Constitucionais para Municípios - [Dados Gov](http://dados.gov.br/dataset/transferencias-constitucionais-para-municipios) 
+- [Mapa das Câmaras Municipais](https://painel.tce.sp.gov.br/pentaho/api/repos/%3Apublic%3ACamara%3Acamara.wcdf/generatedContent?password=zero&userid=anony)
+
+
+
 
 ----
 ### Social
@@ -121,15 +129,13 @@
 - Dados eleitorais do [ Repositório de dados eleitorais ](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
 
 
-
-
-
-
-
-
 ----
 ### Orçamento SP
-
+- [TCESP](https://www.tce.sp.gov.br/#)
+- [TCESP - API](https://transparencia.tce.sp.gov.br/apis)
+- [Portal da Transparência do TCESP](https://www4.tce.sp.gov.br/transparencia/)
+- [Mapa das Câmaras Municipais](https://painel.tce.sp.gov.br/pentaho/api/repos/%3Apublic%3ACamara%3Acamara.wcdf/generatedContent?password=zero&userid=anony)
+- [Contas Anuais do Estado de SP](https://www.tce.sp.gov.br/contas-anuais)
 -  [**LOA**](https://www.al.sp.gov.br/alesp/pesquisa-proposicoes/?direction=inicio&lastPage=0&currentPage=0&act=detalhe&idDocumento=&rowsPerPage=20&currentPageDetalhe=1&tpDocumento=&method=search&text=&natureId=&legislativeNumber=&legislativeYear=&natureIdMainDoc=loa&anoDeExercicio=&strInitialDate=&strFinalDate=&author=105&supporter=&politicalPartyId=&stageId=)
  - [Proposta Orçamentária 2020](https://www.al.sp.gov.br/propositura/?id=1000289881)
  - [Proposta Orçamentária 2019](https://www.al.sp.gov.br/propositura/?id=1000232720)
