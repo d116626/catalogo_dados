@@ -1,7 +1,16 @@
 # Catalogo de Dados Abertos
 
 ### Meus Repositorios
-- 
+
+- [Raio-X do estado de São Paulo](https://github.com/d116626/raiox_sp)
+- [Raio-X da ALESP](https://github.com/d116626/raioX_alesp)
+- [Analise Eleitoral](https://github.com/d116626/analise_eleitoral)
+- [Orçamento do Estado de São Paulo](https://github.com/d116626/orcamento_sp)
+- [Segrança do Estado de São Paulo](https://github.com/d116626/seguranca_sp)
+- [Geodata Brasil](https://github.com/d116626/brasil_geodata)
+- [IPer-SP](https://github.com/d116626/iper_sp)
+- [Orçamento Universidades Paulistas](https://github.com/d116626/universidades_paulistas)
+- [Gabinete SV](https://github.com/d116626/gabinete_sv)
 
 
 
