@@ -2,7 +2,7 @@
 
 ## Meus Repositorios
 
-- [Raio-X do estado de São Paulo](https://github.com/d116626/raiox_sp)
+- [Raio-X do Estado de São Paulo](https://github.com/d116626/raiox_sp)
 - [Raio-X da ALESP](https://github.com/d116626/raioX_alesp)
 - [Analise Eleitoral](https://github.com/d116626/analise_eleitoral)
 - [Orçamento do Estado de São Paulo](https://github.com/d116626/orcamento_sp)
