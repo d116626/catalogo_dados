@@ -59,6 +59,15 @@
 - Resident population in 2010: [Table 1495](https://sidra.ibge.gov.br/pesquisa/censo-demografico/demografico-2010/amostra-resultados-gerais)
 - Estimated resident population from other years: [Table 6579](https://sidra.ibge.gov.br/pesquisa/estimapop/tabelas)
 
+### IBGE
+- [API de dados do SIDRA](http://api.sidra.ibge.gov.br/)
+- [BDG - Banco de Dados Geodésicos](http://www.bdg.ibge.gov.br/appbdg/)
+- [IBGE Educa](https://educa.ibge.gov.br/)
+- [Países](https://paises.ibge.gov.br/)
+- [Portal de Mapas](https://portaldemapas.ibge.gov.br/portal.php)
+- [SIDRA - Banco de Tabelas Estatísticas](https://sidra.ibge.gov.br/home/ipca/brasil)
+- [Sistema agregador de informações sobre os municípios e estados do Brasil](https://cidades.ibge.gov.br/)
+- [Séries históricas e estatísticas](https://seriesestatisticas.ibge.gov.br/)
 
 
 ----
@@ -121,8 +130,8 @@
 - [DATA SUS](http://www2.datasus.gov.br/DATASUS/index.php?area=0901&item=1)   
 - [Clique SUS](https://www.cliquesus.com.br/)
 - [Data SUS FTP](http://ftp.datasus.gov.br/dissemin/publicos/SIHSUS/200801_/dados/)
-
-
+- [OMS](https://www.who.int/gho/themes/en/)
+- [ANS](http://www.ans.gov.br/planos-de-saude-e-operadoras/informacoes-e-avaliacoes-de-operadoras)
 
 ----
 ### Infraestrutura
