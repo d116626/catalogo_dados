@@ -17,11 +17,11 @@
 ## DADOS
 
 ### Geral
-- [ODS](https://odsbrasil.gov.br/objetivo/objetivo?n=3)
-- [Dados Governo](http://dados.gov.br/dataset?_organization_limit=0)
+- [Indicadores Brasileiros para os Objetivos de Desenvolvimento Sustentável (ODS)](https://odsbrasil.gov.br/)
+- [Catalogo de Dados do Governo](http://dados.gov.br/dataset?_organization_limit=0)
+- [Portal da Transparencia do Governo](http://www.portaltransparencia.gov.br/servidores)
 - [Governo Aberto](http://www.governoaberto.sp.gov.br/)
 - [Portal da Transparencia SP](http://www.transparencia.sp.gov.br/)
-- [Portal da Transparencia](http://www.portaltransparencia.gov.br/servidores)
 
 ----
 ### Demograficos
