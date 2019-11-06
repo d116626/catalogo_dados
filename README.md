@@ -22,6 +22,11 @@
 - [Portal da Transparencia do Governo](http://www.portaltransparencia.gov.br/servidores)
 - [Governo Aberto](http://www.governoaberto.sp.gov.br/)
 - [Portal da Transparencia SP](http://www.transparencia.sp.gov.br/)
+- [Catalogo do COLABORA DADOS](http://colaboradados.com.br/)
+- [Dados Abertos prefeitura SP](http://dados.prefeitura.sp.gov.br/)
+
+
+
 
 ----
 ### Demograficos
@@ -101,11 +106,11 @@
 
 ----
 ### Educação
-- [INEP](http://inep.gov.br/web/guest/microdados)
+- [MEC - INEP](http://inep.gov.br/web/guest/microdados)
 - [Dados Abertos da Educação de SP](https://dados.educacao.sp.gov.br/search/type/dataset)
 - [QEdu](https://www.qedu.org.br/)
-
-
+- [Dados Abertos Educação GOVERNO](http://educacao.dadosabertosbr.com/escolas/estatisticas) -  TEM API
+- [MEC - Programa Mais Educação, Prouni e Pronatec](http://dadosabertos.mec.gov.br)
 ----
 ### Saneamento
 
@@ -154,4 +159,15 @@
 - Fonte de Receita - [Fazenda SP Detalhado](https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsReceita.aspx)
 
 
+
+
+
+### Outros
+- [Global Open Data Index](https://index.okfn.org/dataset/)
+
+- [Data on the Web Best Practices](https://www.w3.org/TR/dwbp/)
+
+- [Bingo dos Dados](https://campagnucci.github.io/opendatabingo/)
+
+-[Lei Municipal de dados abertos](http://legislacao.prefeitura.sp.gov.br/leis/lei-16051-de-06-de-agosto-de-2014)
 
