@@ -27,11 +27,11 @@
 
 
 
-[ArcGIS](https://www.arcgis.com/home/index.html)
+- [ArcGIS](https://www.arcgis.com/home/index.html)
 
-[OPSM](https://wiki.openstreetmap.org/wiki/API)
-[OPSM](https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0)
-[INEP](http://inep.gov.br/web/guest/microdados)
+- [OPSM](https://wiki.openstreetmap.org/wiki/API)
+- [OPSM](https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0)
+- [INEP](http://inep.gov.br/web/guest/microdados)
 
 
 
