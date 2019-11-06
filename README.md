@@ -1,5 +1,10 @@
 # Catalogo de Dados Abertos
 
+### Meus Repositorios
+- 
+
+
+
 ### Geral
 - [ODS](https://odsbrasil.gov.br/objetivo/objetivo?n=3)
 - [Dados Governo](http://dados.gov.br/dataset?_organization_limit=0)
@@ -31,7 +36,6 @@
 
 - [OPSM](https://wiki.openstreetmap.org/wiki/API)
 - [OPSM](https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0)
-- [INEP](http://inep.gov.br/web/guest/microdados)
 
 
 
@@ -47,6 +51,8 @@
 - [Fazenda SP](https://portal.fazenda.sp.gov.br/acessoinformacao)
 - [PIB Mensal SP](http://www.seade.gov.br/produtos/pib-mensal/)
 - [SINE aberto](https://sineaberto.economia.gov.br/vagas.html)
+- [Repositorio de Dados Abertos do Ministerio do Plnejamento](http://www.planejamento.gov.br/repositorio-de-dados-abertos/repositorio-de-dados-abertos)
+
 
 ----
 ###### Municipal
@@ -72,11 +78,13 @@
 
 ----
 ### Segurança
+- [Dados Estatísticos do Estado de São Paulo](http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx)
 - [SSP Estatisticas Trimestrais](http://www.ssp.sp.gov.br/Estatistica/Trimestrais.aspx)
-- Dados de Violencia [SSP](http://www.ssp.sp.gov.br/Estatistica/Pesquisa.aspx)
+- [SSP Consultas](http://www.ssp.sp.gov.br/transparenciassp/Consulta.aspx)
 
 ----
 ### Educação
+- [INEP](http://inep.gov.br/web/guest/microdados)
 - [Dados Abertos da Educação de SP](https://dados.educacao.sp.gov.br/search/type/dataset)
 - [QEdu](https://www.qedu.org.br/)
 
@@ -103,6 +111,30 @@
 ### Eleitorais
 - Dados eleitorais do [ Repositório de dados eleitorais ](http://www.tse.jus.br/eleicoes/estatisticas/repositorio-de-dados-eleitorais-1)
 
+
+
+
+
+
+
+
+----
+### Orçamento SP
+
+-  [**LOA**](https://www.al.sp.gov.br/alesp/pesquisa-proposicoes/?direction=inicio&lastPage=0&currentPage=0&act=detalhe&idDocumento=&rowsPerPage=20&currentPageDetalhe=1&tpDocumento=&method=search&text=&natureId=&legislativeNumber=&legislativeYear=&natureIdMainDoc=loa&anoDeExercicio=&strInitialDate=&strFinalDate=&author=105&supporter=&politicalPartyId=&stageId=)
+ - [Proposta Orçamentária 2020](https://www.al.sp.gov.br/propositura/?id=1000289881)
+ - [Proposta Orçamentária 2019](https://www.al.sp.gov.br/propositura/?id=1000232720)
+ - [Proposta Orçamentária 2018](https://www.al.sp.gov.br/propositura/?id=1000171074)
+ - [Proposta Orçamentária 2017](https://www.al.sp.gov.br/propositura/?id=1000005738)
+ - [Proposta Orçamentária 2016](https://www.al.sp.gov.br/propositura/?id=1279623)
+ - [Proposta Orçamentária 2015](https://www.al.sp.gov.br/propositura/?id=1225049)
+ 
+
+- Orçamento Executado - [Fazenda SP](https://portal.fazenda.sp.gov.br/acessoinformacao/Paginas/Consulta-Receita-Orçamentária.aspx)
+- Orçamento Executado - [Fazenda SP Detalhado](https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsDespesa.aspx)
+
+
+- Fonte de Receita - [Fazenda SP Detalhado](https://www.fazenda.sp.gov.br/SigeoLei131/Paginas/FlexConsReceita.aspx)
 
 
 
