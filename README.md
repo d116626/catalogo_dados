@@ -197,5 +197,5 @@
 
 - [Bingo dos Dados](https://campagnucci.github.io/opendatabingo/)
 
--[Lei Municipal de dados abertos](http://legislacao.prefeitura.sp.gov.br/leis/lei-16051-de-06-de-agosto-de-2014)
+- [Lei Municipal de dados abertos](http://legislacao.prefeitura.sp.gov.br/leis/lei-16051-de-06-de-agosto-de-2014)
 
