@@ -5,7 +5,7 @@
 - [Raio-X do Estado de São Paulo](https://github.com/d116626/raiox_sp)
 - [Raio-X da ALESP](https://github.com/d116626/raioX_alesp)
 - [Scraping and mining Diario Oficial de São Paulo](https://github.com/d116626/do_sp)
-- [Raio-X da Saúde publica do Estado de SPhttp://diariooficial.imprensaoficial.com.br](https://github.com/d116626/saude_sp)
+- [Raio-X da Saúde publica do Estado de SP](https://github.com/d116626/saude_sp)
 - [Dados e Analises do COVID-19](https://github.com/d116626/covid19)
 - [Dados e Analises da Previdencia publica do estado de São Paulo](https://github.com/d116626/previdencia_sp)
 - [Lista de Indicadores por área](https://github.com/d116626/indicadores)
