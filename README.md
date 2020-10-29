@@ -85,7 +85,7 @@
 - [PIB Mensal SP](http://www.seade.gov.br/produtos/pib-mensal/)
 - [SINE aberto](https://sineaberto.economia.gov.br/vagas.html)
 - [Repositorio de Dados Abertos do Ministerio do Plnejamento](http://www.planejamento.gov.br/repositorio-de-dados-abertos/repositorio-de-dados-abertos)
-
+- [CAGED](ftp://ftp.mtps.gov.br/pdet/microdados/) - [R-option](https://github.com/lucasmation/microdadosBrasil)
 
 ----
 ### Municipal
