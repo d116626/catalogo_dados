@@ -23,6 +23,7 @@
 ## DADOS
 
 ### Geral
+- [Atlas Estado](https://www.ipea.gov.br/atlasestado/filtros-series)
 - [Dados Fiscais (meusiconfi)](https://meusiconfi.tesouro.gov.br/Interface_rsiconfi.rmd)
 - [Raio-X dos Municípios](https://raioxdosmunicipios.insper.edu.br/cidade/3504008.html)
 - [Indicadores Brasileiros para os Objetivos de Desenvolvimento Sustentável (ODS)](https://odsbrasil.gov.br/)
